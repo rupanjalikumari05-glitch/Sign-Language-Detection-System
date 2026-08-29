@@ -3,6 +3,7 @@ from-root==1.0.2
 flask-cors
 flask
 
+
 # YOLOv5 requirements
 # Usage: pip install -r requirements.txt
 
@@ -50,3 +51,4 @@ setuptools>=70.0.0 # Snyk vulnerability fix
 # mss  # screenshots
 # albumentations>=1.0.3
 # pycocotools>=2.0.6  # COCO mAP
+-e .
